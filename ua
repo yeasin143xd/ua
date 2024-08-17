@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/255.0.0.33.121;FBBV/195354855;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/0;FBCR/Idea;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 5;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
