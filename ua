@@ -1,1 +1,4 @@
-[FBAN/FB4A;FBAV/255.0.0.33.121;FBBV/195354855;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/0;FBCR/Idea;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 5;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/257.0.0.44.118;FBBV/197851403;FBDM/{density=2.75,width=1080,height=2150};FBLC/en_GB;FBRV/0;FBCR/Robi;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 6 Pro;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/255.0.0.33.121;FBBV/195354855;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/0;FBCR/airtel;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 5;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/206636728;FBDM/{density=2.75,width=1080,height=2134};FBLC/ru_RU;FBRV/207716779;FBCR/Vodafone UA;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/Redmi Note 8 Pro;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/261.0.0.52.126;FBBV/202681550;FBDM/{density=2.0,width=720,height=1280};FBLC/en_GB;FBRV/0;FBCR/airtel;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 5A;FBSV/7.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
